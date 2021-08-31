@@ -12,4 +12,5 @@
 > EN: Show the molar mass of chimetry formula.
 # Пример формулы
 > H2O - вода 
+____
 > H2SO4 - серная кислота
