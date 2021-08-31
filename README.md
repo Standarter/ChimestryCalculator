@@ -2,15 +2,14 @@
 
 # Пользование
 ## Windows
-cd ChimestryCalculator
-python Calculator.py
+> cd ChimestryCalculator
+>python Calculator.py
 ## Linux
-cd ChimestryCalculator
-python3 Calculator.py
+> cd ChimestryCalculator
+> python3 Calculator.py
 # Описание
-RU: Показывает молярную массу химического соединения.
-EN: Show the molar mass of chimetry formula.
+> RU: Показывает молярную массу химического соединения.
+> EN: Show the molar mass of chimetry formula.
 # Пример формулы
-H2O - вода 
-</b>
-H2SO4 - серная кислота
+> H2O - вода 
+> H2SO4 - серная кислота
