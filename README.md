@@ -11,5 +11,6 @@ python3 Calculator.py
 RU: Показывает молярную массу химического соединения.
 EN: Show the molar mass of chimetry formula.
 # Пример формулы
-H2O - вода
+H2O - вода 
+</b>
 H2SO4 - серная кислота
