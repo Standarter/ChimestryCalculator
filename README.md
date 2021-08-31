@@ -2,13 +2,13 @@
 
 # Пользование
 ## Windows
-> cd ChimestryCalculator
+> cd ChimestryCalculator  
 >python Calculator.py
 ## Linux
-> cd ChimestryCalculator
+> cd ChimestryCalculator  
 > python3 Calculator.py
 # Описание
-> RU: Показывает молярную массу химического соединения.
+> RU: Показывает молярную массу химического соединения.  
 > EN: Show the molar mass of chimetry formula.
 # Пример формулы
 > H2O - вода  
